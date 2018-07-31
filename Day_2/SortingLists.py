@@ -1,0 +1,7 @@
+MYLIST = [5,3,1,2,4]
+
+print(MYLIST)
+
+MYLIST[0],MYLIST[1] = MYLIST[1],MYLIST[0]
+
+print(MYLIST)
