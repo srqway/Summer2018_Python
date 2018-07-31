@@ -31,4 +31,4 @@ if TOTAL_SALES > 100000:
 #TOTAL_PROFIT = TOTAL_SALES * TOTAL_SALES_PERCENTAGE
 
 #Display total profit
-print "Your total profit is: $", format(TOTAL_PROFIT, ',.2f')
+print ("Your total profit is: $", format(TOTAL_PROFIT, ',.2f'))
