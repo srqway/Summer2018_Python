@@ -21,7 +21,7 @@ if __name__ == "__main__":
         num1 = float(input("Enter a number: "))
         assert num1 > 0
         num2 = float(input("Enter another number: "))
-        assert num3 > 0
+        assert num2 > 0
         main(num1,num2)
         oops()
     except ValueError:
