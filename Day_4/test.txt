@@ -1,0 +1,12 @@
+This is a test.  I want to see if YOU can tell me how many UPPERCASE LETTERS, 
+lowercase letters, nUmbERs, and spaces ArE in this document.  I would also 
+like you to tell me HOW many conSONAnts and vowels are in here. 
+VowelS aRe considered A, E, I, O, and U.  Do not count Y.  
+If you can aCCuraTely get ThIs coRRect you would likely get a 20 out of 20, which is a 100.
+I am hOpInG you can do that.  If yOu have issues, PLEASE let me know.  Submit the code as there
+is no nEEd for you to do pSeudoCode.  You can CrEaTe if you wish, but you are NOT requireD.  0 1 2 
+3 4 5 6 7 8 9 0 are the DigiTs to account for.  
+
+Thanks,
+
+Paul  
